@@ -11,9 +11,9 @@ We introduce a CT reconstruction method for objects that undergo rapid deformati
 ## Usage
 The code is tested in Visual Studio 2015 and 2018 on 64 bits Windows 7 and Windows 10.
 
-To run the Warp-and-Project tomography framwork (WaPTomo), libraries like [argtable], [openmp],  [eigen], and [cimg] are required, which are all included in `./shared` folder.
+To run the Warp-and-Project tomography framwork (WaPTomo), first compile `WaP19.sln` with Visual Studio. Notice that libraries like [argtable], [openmp],  [eigen], and [cimg] are required, which are all included in `./shared` folder, put them in the right path for the project.
 
-More details for running parameters, type:
+More details for running parameters, just type:
 `WaP19  --help`
 
 ## Software to release
