@@ -18,7 +18,7 @@ More details for running parameters, just type:
 
 ## Software to release
 
-We are developing a open source software for 3D and 4D tomograhic reconstruction, in which the super resolution tomography, space-time tomography, and warp-and-project will be intergrated with decent GUI, more memory/time friendly code. We will release it soon, stay tuned!
+We are developing a open source software for 3D and 4D tomograhic reconstruction, in which the super resolution tomography, space-time tomography, and warp-and-project will be intergrated with a decent GUI (Qt-based front-end and C++ based back-end), more memory/time friendly code. The version 1.0 is currently under finalization and will be released very soon, stay tuned!
 
 <img src=./software.png width=95%/>
 
