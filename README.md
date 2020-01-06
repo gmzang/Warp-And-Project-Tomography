@@ -6,6 +6,7 @@ Source code for SIGGRAPH 2019 Paper: Warp-and-Project Tomography for Rapidly Def
 
 <img src=./teaser.png width=95%/>
 <img src=./bubble.png width=95%/>
+<img src=./smoke.png width=95%/>
 We introduce a CT reconstruction method for objects that undergo rapid deformation during the scan. Shown here is a copper foam crumpling under a compressive force during the scan. The whole complex animation is reconstructed using only 192 projection images that all correspond to different deformation states of the foam.
 
 ## Usage
